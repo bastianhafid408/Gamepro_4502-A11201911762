@@ -1,5 +1,5 @@
 # Gamepro_4502-A11201911762
-rogrammer adalah mengetikkan logika-logika sesuai dengan bahasa pemrograman yang digunakan. Posisi ini pun masih dibagi lagi, ada yang bertugas untuk membuat gameplay, ada yang menjadi programmer menu, AI, grafis, networking dan security, dan lain sebagainya.
+Programmer adalah mengetikkan logika-logika sesuai dengan bahasa pemrograman yang digunakan. Posisi ini pun masih dibagi lagi, ada yang bertugas untuk membuat gameplay, ada yang menjadi programmer menu, AI, grafis, networking dan security, dan lain sebagainya.
 
 Salah satu hal yang saya pelajari sebagai programmer game namun sangat jarang diminta ketika saya kuliah ada urusan optimisasi. Meskipun secara teori kurikulum menjelaskan tentang optimisasi, tapi jarang sekali penggunaannya ditekankan, padahal dalam mengembangkan game optimisasi adalah hal yang amat sangat penting.
 
